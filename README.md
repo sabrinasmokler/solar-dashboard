@@ -62,4 +62,4 @@ AI Assistance
 
 ChatGPT was used as a development aid to validate financial calculations, assist with debugging, and organize code structure.
 
-All final implementation decisions, testing, and project modifications were reviewed and completed by me (Sabrina)
+All final implementation decisions, testing, and project modifications were reviewed and completed by me (Sabrina).
