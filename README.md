@@ -51,9 +51,15 @@ The project separates frontend code from financial logic to keep the code organi
 - pandas
 - numpy-financial
 
-## How to Run Locally
+Sources Used
+Electricity Pricing Data
 
-Install dependencies:
+https://www.electricchoice.com/electricity-prices-by-state/
 
-```bash
-python3 -m pip install -r requirements.txt
+Residential electricity prices were converted from cents per kWh to dollars per kWh before being used in the model.
+
+AI Assistance
+
+ChatGPT was used as a development aid to validate financial calculations, assist with debugging, and organize code structure.
+
+All final implementation decisions, testing, and project modifications were reviewed and completed by me (Sabrina)
