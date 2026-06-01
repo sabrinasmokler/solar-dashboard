@@ -2,6 +2,10 @@
 
 A Streamlit dashboard that estimates solar project financial performance based on system size and state electricity prices.
 
+## Live Demo
+
+https://solar-dashboard-sabrina.streamlit.app/
+
 ## Overview
 
 This tool allows users to enter a U.S. state and solar system size in kW. It then calculates key solar project metrics, including upfront system cost, annual electricity generation, project IRR, payback period, and a 25-year cash flow table.
